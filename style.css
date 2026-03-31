@@ -217,13 +217,13 @@ td h3{
     width: 70%;
 }
 .web-dev{
-    width: 60%;
+    width: 80%;
 }
 .tools{
-    width: 60%;
+    width: 80%;
 }
 .data-analysis{
-    width: 60%;
+    width: 70%;
 }
 @media (max-width: 768px) {
     .expertise{
